@@ -1,0 +1,27 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.0.0.1
+gem5 compiled Oct 31 2024 19:03:23
+gem5 started Nov  4 2024 07:01:44
+gem5 executing on instance-20240914-203306, pid 6241
+command line: /home/abdullah/gem5/build/X86/gem5.opt --outdir=a4_gem5_8_ltage_38 --redirect-stdout --redirect-stderr /home/abdullah/gem5/configs/example/a4/cse530_a4_sys_config.py --cse530-core-config=test --binfile=/home/abdullah/cse530_a4/benchmarks/stanford/Quicksort --l1i_size 4kB --l1d_size 4kB --l2_size 32kB
+
+Global frequency set at 1000000000000 ticks per second
+Beginning simulation!
+-50000
+-49999
+-49997
+-49985
+-49964
+-49962
+-49944
+-49939
+-49915
+-49880
+-49878
+-49867
+-49866
+-49841
+-49821
+Exiting @ tick 11729235000 because exiting with last active thread context
